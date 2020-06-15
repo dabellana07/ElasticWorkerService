@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElasticSearchWorkerService" expanded="True">
+            <Node name="ElasticSearchWorkerService" expanded="True">
+              <Node name="Worker.cs" selected="True" />
+            </Node>
+            <Node name="ElasticSearchWorkerService.ElasticSearch.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ElasticSearchWorkerService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

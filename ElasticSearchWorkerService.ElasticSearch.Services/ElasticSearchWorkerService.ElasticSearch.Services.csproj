@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ElasticSearchWorkerService.Contracts\ElasticSearchWorkerService.Contracts.csproj" />
+      <ProjectReference Include="..\ElasticSearchWorkerService.Models\ElasticSearchWorkerService.Models.csproj" />
+      <ProjectReference Include="..\ElasticSearchWorkerService.Models\ElasticSearchWorkerService.Models.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="NEST" Version="7.7.1" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.5" />
+    </ItemGroup>
+</Project>

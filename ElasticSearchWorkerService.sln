@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchWorkerService", "ElasticSearchWorkerService\ElasticSearchWorkerService.csproj", "{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchWorkerService.ElasticSearch.Services", "ElasticSearchWorkerService.ElasticSearch.Services\ElasticSearchWorkerService.ElasticSearch.Services.csproj", "{80BC12C1-E681-4C7E-A321-2E417D9833DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchWorkerService.Contracts", "ElasticSearchWorkerService.Contracts\ElasticSearchWorkerService.Contracts.csproj", "{73B1E24E-99DF-4C48-98FA-BF6DFB7CEB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchWorkerService.Models", "ElasticSearchWorkerService.Models\ElasticSearchWorkerService.Models.csproj", "{68FC4A55-10DF-4EDD-95AB-9EA92415AAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BC12C1-E681-4C7E-A321-2E417D9833DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BC12C1-E681-4C7E-A321-2E417D9833DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BC12C1-E681-4C7E-A321-2E417D9833DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BC12C1-E681-4C7E-A321-2E417D9833DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B1E24E-99DF-4C48-98FA-BF6DFB7CEB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B1E24E-99DF-4C48-98FA-BF6DFB7CEB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B1E24E-99DF-4C48-98FA-BF6DFB7CEB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B1E24E-99DF-4C48-98FA-BF6DFB7CEB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FC4A55-10DF-4EDD-95AB-9EA92415AAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FC4A55-10DF-4EDD-95AB-9EA92415AAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FC4A55-10DF-4EDD-95AB-9EA92415AAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FC4A55-10DF-4EDD-95AB-9EA92415AAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
