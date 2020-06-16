@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{AADEBDD1-9D62-4CA3-85FA-3EF513BBF465}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ElasticSearchWorkerService/Program.cs" Line="15" Column="6" />
+      <File FileName="ElasticSearchWorkerService/appsettings.json" Line="16" Column="1" />
+      <File FileName="ElasticSearchWorkerService.ElasticSearch.Services/LogElasticService.cs" Line="17" Column="10" />
+      <File FileName="ElasticSearchWorkerService/Program.cs" Line="65" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ElasticSearchWorkerService" expanded="True">
             <Node name="ElasticSearchWorkerService" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
             <Node name="ElasticSearchWorkerService.ElasticSearch.Services" expanded="True" />
           </Node>

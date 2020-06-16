@@ -36,7 +36,6 @@ namespace ElasticSearchWorkerService.ElasticSearch.Services
                     .Size(1000))
                 .Wait(TimeSpan.FromMinutes(15), next =>
                 {
-                    
                 });
         }
     }
